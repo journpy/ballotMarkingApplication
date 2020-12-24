@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ballotMarkingApplication", "ballotMarkingApplication\ballotMarkingApplication.csproj", "{77C7232A-3B68-401B-A425-D3EAE8C12348}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77C7232A-3B68-401B-A425-D3EAE8C12348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77C7232A-3B68-401B-A425-D3EAE8C12348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77C7232A-3B68-401B-A425-D3EAE8C12348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77C7232A-3B68-401B-A425-D3EAE8C12348}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
